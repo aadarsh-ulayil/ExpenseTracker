@@ -1,0 +1,12 @@
+[
+    {
+        "amount": 30,
+        "category": "transport",
+        "description": "bus"
+    },
+    {
+        "amount": 3000,
+        "category": "rent",
+        "description": "electricity"
+    }
+]
